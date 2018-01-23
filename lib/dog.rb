@@ -9,6 +9,7 @@ class Dog
 
   def instintize(bark)
     @bark = bark
+  end
 
   def bark
     puts "Woof!"
